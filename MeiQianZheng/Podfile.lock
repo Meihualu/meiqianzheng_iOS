@@ -1,0 +1,79 @@
+PODS:
+  - AFNetworking (1.3.4)
+  - Base64 (1.0.1)
+  - CocoaSecurity (1.2.4)
+  - CXPhotoBrowser (1.1.1)
+  - DTAlertView (1.2.1)
+  - Emoticonizer (1.0.0)
+  - FlatUIKit (1.6.2)
+  - ISO8601DateFormatterValueTransformer (0.6.1):
+    - RKValueTransformers (~> 1.1.0)
+  - NSUserDefaults-AESEncryptor (0.0.4):
+    - CocoaSecurity (~> 1.2.2)
+  - NZAlertView (0.0.13):
+    - UIImage-Helpers
+  - RBBAnimation (0.3.0)
+  - RestKit (0.23.3):
+    - RestKit/Core (= 0.23.3)
+  - RestKit/Core (0.23.3):
+    - RestKit/CoreData
+    - RestKit/Network
+    - RestKit/ObjectMapping
+  - RestKit/CoreData (0.23.3):
+    - RestKit/ObjectMapping
+  - RestKit/Network (0.23.3):
+    - AFNetworking (~> 1.3.0)
+    - RestKit/ObjectMapping
+    - RestKit/Support
+    - SOCKit
+  - RestKit/ObjectMapping (0.23.3):
+    - ISO8601DateFormatterValueTransformer (~> 0.6.0)
+    - RestKit/Support
+    - RKValueTransformers (~> 1.1.0)
+  - RestKit/Support (0.23.3):
+    - TransitionKit (= 2.1.0)
+  - RKValueTransformers (1.1.3)
+  - RTAlertView (0.0.7):
+    - RBBAnimation (= 0.3.0)
+  - SOCKit (1.1)
+  - TouchJSON (1.1)
+  - TransitionKit (2.1.0)
+  - UIBubbleTableView (0.2)
+  - UIImage-Helpers (0.0.3)
+
+DEPENDENCIES:
+  - AFNetworking (~> 1.3.0)
+  - Base64 (~> 1.0.1)
+  - CXPhotoBrowser (~> 1.1.1)
+  - DTAlertView (~> 1.2.1)
+  - Emoticonizer (~> 1.0)
+  - FlatUIKit (~> 1.6.2)
+  - NSUserDefaults-AESEncryptor (~> 0.0.3)
+  - NZAlertView (~> 0.0.13)
+  - RestKit (~> 0.23.3)
+  - RTAlertView (~> 0.0.7)
+  - TouchJSON (~> 1.1)
+  - UIBubbleTableView (~> 0.2)
+
+SPEC CHECKSUMS:
+  AFNetworking: cf8e418e16f0c9c7e5c3150d019a3c679d015018
+  Base64: 4924bf3ca6fa559a5161ef717291bd450eb7bd1a
+  CocoaSecurity: d288a6f87e0f363823d2cb83e753814a6944f71a
+  CXPhotoBrowser: 33d91a9def828f6fde8cdc03b9f7e6cc7e337ab0
+  DTAlertView: 496265df1f223c19c88cde9d8175ffe8d70732a0
+  Emoticonizer: e53876934d7723f577b9d95f0c640390bc954bd0
+  FlatUIKit: 1b41f0d4952ce8d970d8479ce79df54a960242c4
+  ISO8601DateFormatterValueTransformer: 52da467d6ec899d6aedda8e48280ac92e8ee97e6
+  NSUserDefaults-AESEncryptor: da02cfef056f1e18ebe2748767915f08b274c9c5
+  NZAlertView: 3f08e809456b35f5cc64de2dcdc9f5fc3f8eb77f
+  RBBAnimation: cb6cb419f511434ce932f7d0fabf369612fafb4e
+  RestKit: e761211cf026c0d56b01d0c2fa1fe8903dc4e4f3
+  RKValueTransformers: e5ed67e3811229b616fe01bddeeafe3bb337b1b9
+  RTAlertView: d49a67097b4a2f907a9dc4495df46961171819fc
+  SOCKit: c7376ac262bea9115b8f749358f762522a47d392
+  TouchJSON: 39be3595ebe489095311d97ce0c824417324cb74
+  TransitionKit: bc306605fb5e05a743c18d42239dc0e211619547
+  UIBubbleTableView: 4d0be4e527938b01ed98fa6b1f35c04667deea01
+  UIImage-Helpers: 06b04a42bdd222844035602e87e936765c80f620
+
+COCOAPODS: 0.39.0
