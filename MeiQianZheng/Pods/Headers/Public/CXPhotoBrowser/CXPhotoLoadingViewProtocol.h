@@ -1,1 +1,0 @@
-../../../CXPhotoBrowser/CXPhotoBrowser/CXPhotoLoadingViewProtocol.h

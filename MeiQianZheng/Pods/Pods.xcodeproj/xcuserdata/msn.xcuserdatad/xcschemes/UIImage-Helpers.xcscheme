@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '8AFCAE33DF9F4497C765A1B2'
+               BlueprintIdentifier = 'BCA08B14FC6A6374E9C180B0'
                BlueprintName = 'UIImage-Helpers'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'libUIImage-Helpers.a'>

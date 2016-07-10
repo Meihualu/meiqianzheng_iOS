@@ -1,1 +1,0 @@
-../../../UIBubbleTableView/src/UIBubbleTableViewCell.h

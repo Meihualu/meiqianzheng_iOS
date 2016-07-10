@@ -14,37 +14,7 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>CXPhotoBrowser.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>CocoaSecurity.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>DTAlertView.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>Emoticonizer.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>FlatUIKit.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>ISO8601DateFormatterValueTransformer.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>NSUserDefaults-AESEncryptor.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -59,42 +29,7 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>RBBAnimation.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>RKValueTransformers.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>RTAlertView.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>RestKit.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>SOCKit.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>TouchJSON.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>TransitionKit.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>UIBubbleTableView.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -106,6 +41,42 @@
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
-	<dict/>
+	<dict>
+		<key>39D6CAC96B268C0AF53F06BFBBFEC991</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>40516629ED7592F09161C9EE33C1422C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4C46DC96126A014DE26907652BC6F8A0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>61681BF0E677683490353B846C61A129</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>69810EA1A5C4E799FD8D25D6FADC8F9B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>76A4365013EDDC337523B365590785EB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AF4E429E2B66ED5C71EE4F2F218B0132</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
 </dict>
 </plist>

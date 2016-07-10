@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'FF6902071804E7FA6C5516FC'
+               BlueprintIdentifier = '0A6CE0157D467D61FD4A95A7'
                BlueprintName = 'NZAlertView'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'libNZAlertView.a'>
