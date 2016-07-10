@@ -11,7 +11,6 @@ before_script:
 - ./scripts/update-bundle.sh
 script:
 - xctool -workspace MeiQianZheng/MeiQianZheng.xcworkspace -scheme MeiQianZheng -sdk iphoneos -configuration Release OBJROOT=$PWD/build SYMROOT=$PWD/build ONLY_ACTIVE_ARCH=NO PGYER_APP_KEY=$PGYER_APP_KEY
-echo "script one end"
 - xctool test -workspace MeiQianZheng/MeiQianZheng.xcworkspace -scheme MeiQianZhengTests -sdk iphonesimulator
   ONLY_ACTIVE_ARCH=NO
 after_script:
